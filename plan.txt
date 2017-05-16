@@ -1,0 +1,18 @@
+1. Light Spot Orientator -- done by may 13, 2017
+2. Object orientator
+   2.1 edge map of an object
+   	2.1.1 edge map for various distances
+   	2.1.2 boarder map of an object
+      		closed edge is a boarder
+	2.1.3 edge map patterns
+		if any one of the patterns is matched then it is the object. (pattern is object)
+		if certain combination of patterns is matched then it is the object (pattern combination is object)
+   2.2 parts patterns and object
+	An object is divided into parts. Each part has its own patterns. 
+	An object has a part, a thing with the part is the object
+	Certain combination of parts is an object
+   2.3 individuals/aspects/manifolds and object
+
+   2.4 object orientator
+
+3. inductive and deductive reasoning
